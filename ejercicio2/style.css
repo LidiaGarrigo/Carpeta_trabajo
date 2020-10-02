@@ -1,0 +1,12 @@
+body {
+    background-color: #00D1AE;
+    height: 200px;
+}
+.primero-tercero-div {
+    width: 400px;
+}
+.segundo-cuarto-div {
+    width: 100px;
+    background-color: red;
+    overflow: hidden;
+}

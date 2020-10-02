@@ -1,0 +1,25 @@
+body {
+    margin:0px;
+    padding: 0px;
+}
+section {
+    color: red;
+}
+p {
+    background: #5BD5F0;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+h1 {
+    color: black;
+}
+#texto-parrafo2 {
+color: green;
+}
+.box-small {
+    padding: 5px;
+    margin: 5px;
+}
